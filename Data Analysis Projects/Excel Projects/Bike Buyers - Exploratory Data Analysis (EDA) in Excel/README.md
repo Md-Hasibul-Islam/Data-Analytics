@@ -9,7 +9,7 @@ Explore the dashboard in this PDF:
 
 ## 📌 Project Overview
 
-This project performs Exploratory Data Analysis (EDA) on a Bike Buyers dataset using Microsoft Excel.  
+This project performs Exploratory Data Analysis (EDA) on a Bike Buyers dataset using Microsoft Excel. 
 The goal is to identify patterns and customer characteristics that influence bike purchase decisions.
 
 The analysis focuses on income, age, commute distance, and demographic factors to uncover insights that could support targeted marketing strategies.

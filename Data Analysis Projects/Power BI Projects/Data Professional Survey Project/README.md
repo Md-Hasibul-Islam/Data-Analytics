@@ -3,7 +3,7 @@
 ## 🌐 Interactive Dashboard
 
 Explore the dashboard in this PDF:  
-🔍 [Data Professional Survey Breakdown](Data Professional Survey Project.pdf)
+🔍 [Data Professional Survey Breakdown](Data%20Professional%20Survey%20Project.pdf)
 
 ---
 

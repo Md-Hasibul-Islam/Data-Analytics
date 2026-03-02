@@ -13,7 +13,7 @@ The objective is to uncover trends, patterns, outliers, and key insights related
 - Monthly rolling totals
 - Company rankings by year
 
-The dataset used in this analysis was first cleaned and standardized in a separate SQL Data Cleaning project.
+The dataset used in this analysis was first cleaned and standardized in a separate SQL Data Cleaning project, which is [Layoffs Dataset - Data Cleaning Project using MySQL](https://github.com/Md-Hasibul-Islam/Data-Analytics/tree/main/Data%20Analysis%20Projects/SQL%20Projects/Layoffs%20Dataset%20-%20Data%20Cleaning%20Project). 
 
 ---
 
