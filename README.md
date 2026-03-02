@@ -1,6 +1,7 @@
 # 📊 Data Analytics
 
 Welcome to the Data Analytics repository.  
+
 This repository showcases end-to-end analytical projects and structured hands-on practice across multiple data tools and technologies.
 
 ---

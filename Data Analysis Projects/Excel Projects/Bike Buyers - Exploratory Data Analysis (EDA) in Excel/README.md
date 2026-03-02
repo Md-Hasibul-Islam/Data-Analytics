@@ -3,7 +3,7 @@
 ## 🌐 Interactive Dashboard
 
 Explore the dashboard in this PDF:  
-🔍 [Bike Buyers - Exploratory Data Analysis (EDA)](Bike Buyers - Exploratory Data Analysis (EDA) in Excel.pdf)
+🔍 [Bike Buyers - Exploratory Data Analysis (EDA)](Bike%20Buyers%20-%20Exploratory%20Data%20Analysis%20(EDA)%20in%20Excel.pdf)
 
 ---
 
